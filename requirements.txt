@@ -1,7 +1,5 @@
-streamlit==1.45.1
-scikit-learn
+streamlit
 numpy
-pandas
-matplotlib
+scikit-learn
 wordcloud
-pickle
+pillow
