@@ -1,0 +1,7 @@
+streamlit==1.45.1
+scikit-learn
+numpy
+pandas
+matplotlib
+wordcloud
+pickle
